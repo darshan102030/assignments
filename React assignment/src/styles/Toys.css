@@ -1,0 +1,19 @@
+
+.toys {
+    padding: 30px 0px;
+    background-color: whitesmoke;
+  }
+  .image-box {
+    width: 850px;
+    height: 650px;
+    background-color: #ddd;
+    text-align: center;
+  }
+  .img{
+    width: 650px;
+    height: 450px;
+    background-color: #ddd;
+    text-align: center;
+    width: 100%;
+  }
+  

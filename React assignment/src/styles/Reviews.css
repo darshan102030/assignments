@@ -1,0 +1,13 @@
+
+.review {
+    padding: 35px 0px;
+    background-color: rgb(122, 255, 151);
+    text-align: center;
+    color: black;
+    font-style: bold italic;
+  }
+
+  .p{
+    font-style: bold;
+  }
+  
